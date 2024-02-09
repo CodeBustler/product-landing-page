@@ -1,3 +1,6 @@
-# productLanding-Page
+# Product Landing Page 
+## Design From Dribble
+By using HTML & CSS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-6ukwye)
+## Live
+https://product-landing-page-cb.netlify.app/
